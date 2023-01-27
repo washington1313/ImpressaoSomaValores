@@ -18,18 +18,17 @@ namespace ImprimirSomaValores
             terceiroNumero= int.Parse(Console.ReadLine());
             Console.Clear();
 
-            soma = SomandoValores(primeiroNumero, segundoNumero, terceiroNumero);
+            soma = ImprimirSomaValores(primeiroNumero, segundoNumero, terceiroNumero);
             Console.WriteLine("A soma dos números foi: " + soma);
 
             Console.ReadKey();
         }
 
-        static int SomandoValores (int primeiroValor, int segundoValor, int terceiroValor)
+        static int ImprimirSomaValores (int primeiroValor, int segundoValor, int terceiroValor)
         {
             int resultado = primeiroValor + segundoValor + terceiroValor;
 
             return resultado;
         }
-
     }
 }
