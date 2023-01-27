@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\ImprimirSomaValores\ImprimirSomaValores\bin\Debug\ImprimirSomaValores.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\ImprimirSomaValores\ImprimirSomaValores\bin\Debug\ImprimirSomaValores.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\ImprimirSomaValores\ImprimirSomaValores\bin\Debug\ImprimirSomaValores.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\ImprimirSomaValores\ImprimirSomaValores\obj\Debug\ImprimirSomaValores.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\ImprimirSomaValores\ImprimirSomaValores\obj\Debug\ImprimirSomaValores.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\ImprimirSomaValores\ImprimirSomaValores\obj\Debug\ImprimirSomaValores.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\ImprimirSomaValores\ImprimirSomaValores\obj\Debug\ImprimirSomaValores.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\VS\ImprimirSomaValores\ImprimirSomaValores\obj\Debug\ImprimirSomaValores.pdb
